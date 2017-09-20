@@ -1,7 +1,10 @@
 # Mapping the Internet Censorship
 
-This repository is made for the virtual infrastructure subject at Computer Engineering grade (UGR, 4th year). The goal of the app is to provide an interactive map with up-to-the-minute information about internet censorship in dofferent countries and allow users to commenton each case. 
+This repository is made for the virtual infrastructure subject at Computer Engineering grade (UGR, 4th year). The goal of the app is to provide an interactive map with up-to-the-minute information about internet censorship in different countries and allow users to commenton each case. 
+
+[![Terceranexus6](https://badges.frapsoft.com/typescript/code/typescript.png?v=103)](https://github.com/terceranexus6)
 ____
+[![Made with Love and Open Source](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 ## About the project
 
@@ -13,11 +16,19 @@ The app is supposed to have:
 * Reliable sources
 * Comments allowed in each case
 
+Programming goals:
+
+* Scala
+* Python
+* Vue js
+* MEAN
+
 ## Why Concerning about Internet Censorship?
 
-Internet censorship is one of the main problems of our era, which many users around the globe suffer everyday. Some proffesionals such as journalists, activists and similar are used to see their digital rihts beaten, but our daily life also hides these problems. Digital privacy and awareness is as important as defending freedom of expression, and for so many NGOs are fighting for the users (such as the [EFF](eff.org) and others). These little projects could mean a difference for eveyone being able to easily check the reality of the internet. 
+Internet censorship is one of the main problems of our era, which many users around the globe suffer everyday. Some proffesionals such as journalists, activists and similar are used to see their digital rihts beaten, but our daily life also hides these problems. Digital privacy and awareness is as important as defending freedom of expression, and for so many NGOs are fighting, for the users (such as the [EFF](eff.org) and others). These little projects could mean a difference for eveyone being able to easily check the reality of the internet. 
 
 ## Licence 
+
 
 This project is under [GNU general public licence](https://choosealicense.com/licenses/gpl-3.0/) with the so called _copyleft_ that **allows**:
 
