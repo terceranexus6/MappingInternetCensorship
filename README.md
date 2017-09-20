@@ -1,8 +1,6 @@
 # Mapping the Internet Censorship
 
 This repository is made for the virtual infrastructure subject at Computer Engineering grade (UGR, 4th year). The goal of the app is to provide an interactive map with up-to-the-minute information about internet censorship in different countries and allow users to commenton each case. 
-
-[![Terceranexus6](https://badges.frapsoft.com/typescript/code/typescript.png?v=103)](https://github.com/terceranexus6)
 ____
 [![Made with Love and Open Source](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
