@@ -1,14 +1,14 @@
 # Mapping the Internet Censorship
 
-![](https://img.shields.io/badge/Journalism-ON-brightgreen.svg)
-![](https://img.shields.io/badge/Privacy-ON-brightgreen.svg)
-![](https://img.shields.io/badge/Interferencias-ON-brightgreen.svg)
+[![](https://img.shields.io/badge/Journalism-ON-brightgreen.svg)](https://vimeo.com/216365214)
+[![](https://img.shields.io/badge/Privacy-ON-brightgreen.svg)](https://www.eff.org/es/node/82801)
+[![](https://img.shields.io/badge/Interferencias-ON-brightgreen.svg)](https://github.com/Interferencias)
 
 This repository is made for the virtual infrastructure subject at Computer Engineering grade (UGR, 4th year). The goal of the app is to provide an interactive map with up-to-the-minute information about internet censorship in different countries and allow users to commenton each case. 
 
 The [main page](https://interferencias.github.io/MappingCensorship/) is under Interferencias
 ____
-[![Made with Love and Open Source](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Made with Love and Open Source](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 ## About the project
 
@@ -20,12 +20,6 @@ The app is supposed to have:
 * Reliable sources
 * Comments allowed in each case
 
-Programming goals:
-
-* Scala
-* Python
-* Vue js
-* MEAN
 
 ## Why Concerning about Internet Censorship?
 
