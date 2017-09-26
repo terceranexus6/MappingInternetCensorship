@@ -25,6 +25,12 @@ The app is supposed to have:
 
 Internet censorship is one of the main problems of our era, which many users around the globe suffer everyday. Some proffesionals such as journalists, activists and similar are used to see their digital rihts beaten, but our daily life also hides these problems. Digital privacy and awareness is as important as defending freedom of expression, and for so many NGOs are fighting, for the users (such as the [EFF](eff.org) and others). These little projects could mean a difference for eveyone being able to easily check the reality of the internet. 
 
+## Tools
+
+- Framework python: [Flask](http://flask.pocoo.org/docs/0.12/)  
+- Data Base management with [PostgreSQL](https://www.postgresql.org/) and _connected_ to Flask using ORM.  
+- Javascript library [vue.js](https://vuejs.org/) for dynamic web development.
+
 ## Licence 
 
 
