@@ -28,7 +28,7 @@ Internet censorship is one of the main problems of our era, which many users aro
 ## Tools
 
 - Framework python: [Flask](http://flask.pocoo.org/docs/0.12/)  
-- Data Base management with [PostgreSQL](https://www.postgresql.org/) and _connected_ to Flask using ORM.  Also trying HEROKU.
+- Data Base management with [PostgreSQL](https://www.postgresql.org/) and _connected_ to Flask using ORM.  Also trying HEROKU for the connection.
 - Javascript library [vue.js](https://vuejs.org/) for dynamic web development.
 
 ## Licence 
